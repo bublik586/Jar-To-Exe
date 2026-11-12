@@ -225,4 +225,4 @@ Jar to Exe is available as a full free version, providing all features and updat
 Transform your JAR files into user-friendly EXE installations today with Jar to Exe — download now and enjoy the full features!
 
 ---
-**Last updated:** 2026-11-11 23:15:12 UTC
+**Last updated:** 2026-11-12 05:19:17 UTC
